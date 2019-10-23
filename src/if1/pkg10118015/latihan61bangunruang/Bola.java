@@ -11,7 +11,6 @@ package if1.pkg10118015.latihan61bangunruang;
  */
 public class Bola extends BangunRuang{
     private double jari;
-    public double phi = Math.PI;
 
     public double getJari() {
         return jari;
